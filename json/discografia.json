@@ -1,0 +1,93 @@
+{
+    "discografia": [
+        {
+            "id" :"1",
+            "caratula" :"",
+            "título" :"Kill 'em all",
+            "sello discografico" :"Megaforce",
+            "fecha" :"25 julio 1983",
+            "estudio" :""
+        },
+        {
+            "id" :"2",
+            "caratula" :"",
+            "título" :"Ride the lightning",
+            "sello discografico" :"Megaforce",
+            "fecha" :"27 julio 1984",
+            "estudio" :""
+        },
+        {
+            "id" :"3",
+            "caratula" :"",
+            "título" :"Master of Puppets",
+            "sello discografico" :"Elektra",
+            "fecha" :"03 marzo 1986",
+            "estudio" :""
+        },
+        {
+            "id" :"4",
+            "caratula" :"",
+            "título" :"And Justice for All",
+            "sello discografico" :"Elektra",
+            "fecha" :"25 agosto 1988",
+            "estudio" :""
+        },
+        {
+            "id" :"5",
+            "caratula" :"",
+            "título" :"Metallica",
+            "sello discografico" :"Elektra",
+            "fecha" :"12 agosto 1991",
+            "estudio" :""
+        },
+        {
+            "id" :"6",
+            "caratula" :"",
+            "título" :"Load",
+            "sello discografico" :"Elektra",
+            "fecha" :"04 junio 1996",
+            "estudio" :""
+        },
+        {
+            "id" :"7",
+            "caratula" :"",
+            "título" :"Reload",
+            "sello discografico" :"Elektra",
+            "fecha" :"18 noviembre 1997",
+            "estudio" :""
+        },
+        {
+            "id" :"7",
+            "caratula" :"",
+            "título" :"St. Anger",
+            "sello discografico" :"Elektra",
+            "fecha" :" 05 junio 2003",
+            "estudio" :""
+        },
+        {
+            "id" :"8",
+            "caratula" :"",
+            "título" :"Death Magnetic",
+            "sello discografico" :"Warner Bros.",
+            "fecha" :"12 septiembre 2008",
+            "estudio" :""
+        },
+        {
+            "id" :"9",
+            "caratula" :"",
+            "título" :"Hardwired...to Self-Destruct",
+            "sello discografico" :"kenedBlac",
+            "fecha" :"18 noviembre",
+            "estudio" :""
+        },
+        {
+            "id" :"10",
+            "caratula" :"",
+            "título" :"",
+            "sello discografico" :"",
+            "fecha" :"",
+            "estudio" :""
+        }
+            
+    ]
+}
