@@ -2,91 +2,73 @@
     "discografia": [
         {
             "id" :"1",
-            "caratula" :"",
-            "título" :"Kill 'em all",
-            "sello discografico" :"Megaforce",
-            "fecha" :"25 julio 1983",
-            "estudio" :""
+            "caratula" :".../images/killEmAll.jpg",
+            "titulo" :"Kill 'em all",
+            "discografica" :"Megaforce",
+            "fecha" :"25 julio 1983"   
         },
         {
             "id" :"2",
-            "caratula" :"",
-            "título" :"Ride the lightning",
-            "sello discografico" :"Megaforce",
-            "fecha" :"27 julio 1984",
-            "estudio" :""
+            "caratula" :".../images/rideTheLightning.jpg",
+            "titulo" :"Ride the Lightning",
+            "discografica" :"Megaforce",
+            "fecha" :"27 julio 1984"    
         },
         {
             "id" :"3",
-            "caratula" :"",
-            "título" :"Master of Puppets",
-            "sello discografico" :"Elektra",
-            "fecha" :"03 marzo 1986",
-            "estudio" :""
+            "caratula" :".../images/masterOfPuppets.jpg",
+            "titulo" :"Master of Puppets",
+            "discografica" :"Elektra",
+            "fecha" :"03 marzo 1986"        
         },
         {
             "id" :"4",
-            "caratula" :"",
-            "título" :"And Justice for All",
-            "sello discografico" :"Elektra",
-            "fecha" :"25 agosto 1988",
-            "estudio" :""
+            "caratula" :".../images/andJustice.jpg",
+            "titulo" :"And Justice for All",
+            "discografica" :"Elektra",
+            "fecha" :"25 agosto 1988"    
         },
         {
             "id" :"5",
-            "caratula" :"",
-            "título" :"Metallica",
-            "sello discografico" :"Elektra",
-            "fecha" :"12 agosto 1991",
-            "estudio" :""
+            "caratula" :".../images/metallica(the black).jpg",
+            "titulo" :"Metallica",
+            "discografica" :"Elektra",
+            "fecha" :"12 agosto 1991"    
         },
         {
             "id" :"6",
-            "caratula" :"",
-            "título" :"Load",
-            "sello discografico" :"Elektra",
-            "fecha" :"04 junio 1996",
-            "estudio" :""
+            "caratula" :".../images/load.jpg",
+            "titulo" :"Load",
+            "discografica" :"Elektra",
+            "fecha" :"04 junio 1996"
         },
         {
             "id" :"7",
-            "caratula" :"",
-            "título" :"Reload",
-            "sello discografico" :"Elektra",
-            "fecha" :"18 noviembre 1997",
-            "estudio" :""
-        },
-        {
-            "id" :"7",
-            "caratula" :"",
-            "título" :"St. Anger",
-            "sello discografico" :"Elektra",
-            "fecha" :" 05 junio 2003",
-            "estudio" :""
+            "caratula" :".../images/reload.jpg",
+            "titulo" :"Reload",
+            "iscografica" :"Elektra",
+            "fecha" :"18 noviembre 1997"
         },
         {
             "id" :"8",
-            "caratula" :"",
-            "título" :"Death Magnetic",
-            "sello discografico" :"Warner Bros.",
-            "fecha" :"12 septiembre 2008",
-            "estudio" :""
+            "caratula" :".../images/stAnger.jpg",
+            "titulo" :"St. Anger",
+            "discografica" :"Elektra",
+            "fecha" :" 05 junio 2003"
         },
         {
             "id" :"9",
-            "caratula" :"",
-            "título" :"Hardwired...to Self-Destruct",
-            "sello discografico" :"kenedBlac",
-            "fecha" :"18 noviembre",
-            "estudio" :""
+            "caratula" :".../images/deathMagnetic.jpg",
+            "titulo" :"Death Magnetic",
+            "discografica" :"Warner Bros.",
+            "fecha" :"12 septiembre 2008"
         },
         {
             "id" :"10",
-            "caratula" :"",
-            "título" :"",
-            "sello discografico" :"",
-            "fecha" :"",
-            "estudio" :""
+            "caratula" :".../images/hardwired.jpg",
+            "titulo" :"Hardwired...to Self-Destruct",
+            "discografica" :"KenedBlac",
+            "fecha" :"18 noviembre 2016"
         }
             
     ]

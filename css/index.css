@@ -1,0 +1,29 @@
+.header{
+    width: auto;
+    height: 60px;
+    background-color: rgb(162, 24, 24);
+    margin-bottom: 30px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-image: "../img/background.jpg";
+    background-color: black;
+}
+.cardsDiscs{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card{
+    margin-bottom: 30px;
+}
+h1{
+    color: rgb(8, 8, 8);
+    font-family: fantasy;
+}
