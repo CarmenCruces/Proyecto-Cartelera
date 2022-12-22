@@ -1,16 +1,19 @@
 .header{
+    display: flex;
+    text-align: center;
     width: auto;
-    height: 60px;
+    min-height: 100%;
     background-color: rgb(162, 24, 24);
     margin-bottom: 30px;
 }
 h1{
-    display: flex;
-    justify-content: center;
+    font-family: 'Rock Salt';
+    font-weight: bold;
+    color: black;
+    margin: 20px;
 }
 body {
-    background-image: "../img/background.jpg";
-    background-color: black;
+    background-image: url("../img/background.jpg");
 }
 .cardsDiscs{
     display: flex;
@@ -19,11 +22,20 @@ body {
     justify-content: space-around;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
 .card{
     margin-bottom: 30px;
 }
-h1{
-    color: rgb(8, 8, 8);
-    font-family: fantasy;
+.main-footer{
+    display: flex;
+    width: auto;
+    height: 75px;
+    background-color: rgb(162, 24, 24);
+    margin-top: auto;
+}
+.footer-text {
+    font-family: 'Rock Salt';
+    font-weight: bold;
+    color: black;
+    margin-top: auto;
+    margin: 10px
 }

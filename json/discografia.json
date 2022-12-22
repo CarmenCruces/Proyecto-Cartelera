@@ -2,70 +2,70 @@
     "discografia": [
         {
             "id" :"1",
-            "caratula" :".../images/killEmAll.jpg",
+            "portada" :"img/killEmAll.jpg",
             "titulo" :"Kill 'em all",
             "discografica" :"Megaforce",
             "fecha" :"25 julio 1983"   
         },
         {
             "id" :"2",
-            "caratula" :".../images/rideTheLightning.jpg",
+            "portada" :"img/rideTheLightning.jpg",
             "titulo" :"Ride the Lightning",
             "discografica" :"Megaforce",
             "fecha" :"27 julio 1984"    
         },
         {
             "id" :"3",
-            "caratula" :".../images/masterOfPuppets.jpg",
+            "portada" :"img/masterOfPuppets.jpg",
             "titulo" :"Master of Puppets",
             "discografica" :"Elektra",
             "fecha" :"03 marzo 1986"        
         },
         {
             "id" :"4",
-            "caratula" :".../images/andJustice.jpg",
+            "portada" :"img/andJustice.jpg",
             "titulo" :"And Justice for All",
             "discografica" :"Elektra",
             "fecha" :"25 agosto 1988"    
         },
         {
             "id" :"5",
-            "caratula" :".../images/metallica(the black).jpg",
+            "portada" :"img/metallica(the black).jpg",
             "titulo" :"Metallica",
             "discografica" :"Elektra",
             "fecha" :"12 agosto 1991"    
         },
         {
             "id" :"6",
-            "caratula" :".../images/load.jpg",
+            "portada" :"img/load.jpg",
             "titulo" :"Load",
             "discografica" :"Elektra",
             "fecha" :"04 junio 1996"
         },
         {
             "id" :"7",
-            "caratula" :".../images/reload.jpg",
+            "portada" :"img/reload.jpg",
             "titulo" :"Reload",
             "iscografica" :"Elektra",
             "fecha" :"18 noviembre 1997"
         },
         {
             "id" :"8",
-            "caratula" :".../images/stAnger.jpg",
+            "portada" :"img/stAnger.jpg",
             "titulo" :"St. Anger",
             "discografica" :"Elektra",
             "fecha" :" 05 junio 2003"
         },
         {
             "id" :"9",
-            "caratula" :".../images/deathMagnetic.jpg",
+            "portada" :"img/deathMagnetic.jpg",
             "titulo" :"Death Magnetic",
             "discografica" :"Warner Bros.",
             "fecha" :"12 septiembre 2008"
         },
         {
             "id" :"10",
-            "caratula" :".../images/hardwired.jpg",
+            "portada" :"img/hardwired.jpg",
             "titulo" :"Hardwired...to Self-Destruct",
             "discografica" :"KenedBlac",
             "fecha" :"18 noviembre 2016"
