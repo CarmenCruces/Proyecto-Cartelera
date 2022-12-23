@@ -24,6 +24,7 @@ body {
 }
 .card{
     margin-bottom: 30px;
+    background-color: rgb(167, 162, 162);
 }
 .main-footer{
     display: flex;
